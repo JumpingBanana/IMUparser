@@ -25,3 +25,9 @@ and result
 ### CMake:
 Prepare CMakeLists.txt
 - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+
+### Serial port:
+- [linux serial ports using c++](https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/)
+- Don't forget to add youself to dialout group
+
+`sudo adduser $USER dialout`

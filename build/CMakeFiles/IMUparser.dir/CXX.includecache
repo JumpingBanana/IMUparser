@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tawit/github/IMUparser/IMUparser.cpp
+stdio.h
+-
+string.h
+-
+iostream
+-
+fcntl.h
+-
+errno.h
+-
+termios.h
+-
+unistd.h
+-
+

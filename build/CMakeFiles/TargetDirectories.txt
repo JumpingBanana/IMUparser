@@ -1,0 +1,3 @@
+/home/tawit/github/IMUparser/build/CMakeFiles/rebuild_cache.dir
+/home/tawit/github/IMUparser/build/CMakeFiles/IMUparser.dir
+/home/tawit/github/IMUparser/build/CMakeFiles/edit_cache.dir
