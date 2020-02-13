@@ -20,3 +20,8 @@ At the end we should have this in the containner environment.
 and result
 
 > crw-rw-rw- 1 root dialout 188, 1 Feb 13 06:02 /dev/ttyUSB1
+
+## Reference site
+### CMake:
+Prepare CMakeLists.txt
+- https://cmake.org/cmake/help/latest/guide/tutorial/index.html
