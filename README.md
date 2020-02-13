@@ -30,3 +30,5 @@ Prepare CMakeLists.txt
 - [linux serial ports using c++](https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/)
 - Don't forget to add youself to dialout group: `sudo adduser $USER dialout`
 - Using `termios` : https://en.wikibooks.org/wiki/Serial_Programming/termios
+- C++ style of implementation: https://github.com/gbmhunter/CppLinuxSerial/blob/master/src/SerialPort.cpp
+- GNU Setting Terminal modes : [GNU](http://www.gnu.org/software/libc/manual/html_node/Terminal-Modes.html)
