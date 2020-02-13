@@ -28,6 +28,5 @@ Prepare CMakeLists.txt
 
 ### Serial port:
 - [linux serial ports using c++](https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/)
-- Don't forget to add youself to dialout group
-
-`sudo adduser $USER dialout`
+- Don't forget to add youself to dialout group: `sudo adduser $USER dialout`
+- Using `termios` : https://en.wikibooks.org/wiki/Serial_Programming/termios
