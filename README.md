@@ -15,4 +15,4 @@ to 'root' group, we will need to use 'sudo' everytime we want to access the devi
 At the end we should have this in the containner environment.
 `$ls -la /dev/ttyUSB1`
 and result"
-`crw-rw-rw- 1 root dialout 188, 1 Feb 13 06:02 /dev/ttyUSB1`
+> crw-rw-rw- 1 root dialout 188, 1 Feb 13 06:02 /dev/ttyUSB1`
