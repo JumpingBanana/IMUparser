@@ -32,3 +32,8 @@ Prepare CMakeLists.txt
 - Using `termios` : https://en.wikibooks.org/wiki/Serial_Programming/termios
 - C++ style of implementation: https://github.com/gbmhunter/CppLinuxSerial/blob/master/src/SerialPort.cpp
 - GNU Setting Terminal modes : [GNU](http://www.gnu.org/software/libc/manual/html_node/Terminal-Modes.html)
+
+## String method
+- Helpful String method to make work easier: http://www.cplusplus.com/reference/string/string/
+- [std::string::find_first_of](http://www.cplusplus.com/reference/string/string/find_first_of/)
+- [std::string::substr](http://www.cplusplus.com/reference/string/string/substr/)
